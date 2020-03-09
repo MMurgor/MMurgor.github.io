@@ -1,11 +1,11 @@
 # Site settings
 author: Romena Murgor
-title: 
+title: SoulofKenya
 header-img: img/home-bg.png
 email: romenamurgor@gmail.com
 copyright_name: Romena Murgor
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Taking Kenyan food and adding a twist.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MMurgor
